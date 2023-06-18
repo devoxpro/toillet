@@ -11,7 +11,7 @@
             "activate_ads" : "false",
             "activate_steps" : "false",
             "activate_step_email" : "false",
-            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "one_signal" : "",
             "network" : "is",
 
             "admob_ban" : "",
@@ -33,10 +33,10 @@
             "iron_source_key": "",
 
             "diamond": "https://raw.githubusercontent.com/mone4eanee/ModdoorsfloorobLox/main/diam.png",
-            "cover": "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/cou2.jpeg",
-            "covercalla": "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/cou1.jpg",
-            "covercallz": "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/cou3.jpg",
-            "covercalle": "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/cou2.jpeg",
+            "cover": "https://i.ibb.co/CwvJf1S/image.jpg",
+            "covercalla": "https://i.ibb.co/CwvJf1S/image.jpg",
+            "covercallz": "https://i.ibb.co/CwvJf1S/image.jpg",
+            "covercalle": "https://i.ibb.co/CwvJf1S/image.jpg",
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
@@ -150,32 +150,32 @@
     
     "menu" : [
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/1.png",
+            "ico" : "ttps://i.ibb.co/vxxVY71/ezgif-1-bab27e02bf-unscreen.gif",
             "bg" : "#FBBF24"
         },{
             "active" : "true",
             "name" : "spinner",
-            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/2.png",
+            "ico" : "https://i.ibb.co/YkmZXT6/output-onlinegiftools.gif",
             "bg" : "#A3E635"
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/3.png",
+            "ico" : "https://i.ibb.co/g64bDrw/3.png",
             "bg" : "#38BDF8"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/4.png",
             "bg" : "#2DD4BF"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/5.png",
             "bg" : "#4ADE80"
@@ -185,19 +185,19 @@
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/6.png",
             "bg" : "#2196F3"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "more",
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/7.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
             "name" : "caller",
-            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/8.png",
+            "ico" : "https://i.ibb.co/ccYJRrQ/call.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
             "name" : "games",
-            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/9.png",
+            "ico" : "https://i.ibb.co/JB412BX/gamee.png",
             "bg" : "#673AB7"
         }
     ],
