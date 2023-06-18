@@ -157,7 +157,7 @@
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "ttps://i.ibb.co/vxxVY71/ezgif-1-bab27e02bf-unscreen.gif",
+            "ico" : "https://i.ibb.co/qDZNwcZ/puzzul-1.png",
             "bg" : "#FBBF24"
         },{
             "active" : "true",
@@ -182,7 +182,7 @@
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/6.png",
+            "ico" : "https://i.ibb.co/JB412BX/gamee.png",
             "bg" : "#2196F3"
         },{
             "active" : "false",
@@ -253,7 +253,7 @@
             "ico" : "https://i.ibb.co/w0VYxY5/3-3.png",
             "link" : "https://html5.gamedistribution.com/6857ab392b9447b28e03f8d03c793479/",
             "cat" : "Soccer",
-            "orientation" : "1"
+            "orientation" : "0"
         },{
             "name" : "Skibidi Toilet Game piano",
             "ico" : "https://i.ibb.co/RbTF6C6/3-4.png",
