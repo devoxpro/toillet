@@ -195,7 +195,7 @@
             "ico" : "https://i.ibb.co/ccYJRrQ/call.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "games",
             "ico" : "https://i.ibb.co/JB412BX/gamee.png",
             "bg" : "#673AB7"
