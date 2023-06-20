@@ -180,7 +180,7 @@
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/5.png",
             "bg" : "#4ADE80"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "wallpapers",
             "ico" : "https://i.ibb.co/d6TMXQy/wall.png",
             "bg" : "#2196F3"
@@ -195,7 +195,7 @@
             "ico" : "https://i.ibb.co/ccYJRrQ/call.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "games",
             "ico" : "https://i.ibb.co/JB412BX/gamee.png",
             "bg" : "#673AB7"
