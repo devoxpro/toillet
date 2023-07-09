@@ -243,60 +243,90 @@
 
     
 
- "wallpapers": [
-    { "name" : "", "img" : "https://i.ibb.co/ZLLZQv9/1-11.jpg" },
-    { "name" : "", "img" : "https://i.ibb.co/my49pHt/1-12.jpg" },
-    { "name" : "", "img" : "https://i.ibb.co/4fHP28W/1-13.jpg" },
-    { "name" : "", "img" : "https://i.ibb.co/MVDv5d6/1-14.jpg" },
-    { "name" : "", "img" : "https://i.ibb.co/9c5W9nb/1-15.jpg" },
-    { "name" : "", "img" : "https://i.ibb.co/rZSMT6B/2.jpg" },
-    { "name" : "", "img" : "https://i.ibb.co/z8dWPZv/new.jpg" },
-    { "name" : "", "img" : "https://i.ibb.co/LYcw9WY/1-1.png" },
-    { "name" : "", "img" : "https://i.ibb.co/cYTpbz3/1-2.jpg" },
-    { "name" : "", "img" : "https://i.ibb.co/XjGrvft/1-2.png" },
-    { "name" : "", "img" : "https://i.ibb.co/KmhFN3r/1-3.jpg" },
-    { "name" : "", "img" : "https://i.ibb.co/SyyXpqf/1-4.jpg" },
-    { "name" : "", "img" : "https://i.ibb.co/fFsmKPF/1-5.jpg" },
-    { "name" : "", "img" : "https://i.ibb.co/mRGBSRb/1-6.jpg" },
-    { "name" : "", "img" : "https://i.ibb.co/L992f2c/1-7.jpg" },
-    { "name" : "", "img" : "https://i.ibb.co/rM7Jhp2/1-8.jpg" },
-    { "name" : "", "img" : "https://i.ibb.co/MVn40Cg/1-9.jpg" },
-    { "name" : "", "img" : "https://i.ibb.co/fphWR2N/1-10.jpg" }
-  ],
-
-   "games" : [
+"wallpapers" : [
         {
-            "name" : "Skibidi Toilet Game",
-            "ico" : "https://i.ibb.co/fQRKMzs/3-1.png",
-            "link" : "https://g.vseigru.net/9/igra-skibidi-tualet-vyzhivanie/",
-            "cat" : "Overall",
-            "orientation" : "1"
-        },{
-            "name" : "Skibidi Toilet Game puzzle",
-            "ico" : "https://i.ibb.co/Dtwy8Xp/3-2.png",
-            "link" : "https://html5.gamemonetize.co/15aj43ai1h4joeaciyclco8n1tvbcibv/?gamedomain=",
-            "cat" : "puzzle",
-            "orientation" : "0"
-        },{
-            "name" : "Skibidi Toilet Game gun",
-            "ico" : "https://i.ibb.co/w0VYxY5/3-3.png",
-            "link" : "https://html5.gamedistribution.com/6857ab392b9447b28e03f8d03c793479/",
-            "cat" : "Soccer",
-            "orientation" : "0"
-        },{
-            "name" : "Skibidi Toilet Game piano",
-            "ico" : "https://i.ibb.co/RbTF6C6/3-4.png",
-            "link" : "https://g.vseigru.net/9/igra-skibidi-tualetnoe-pianino/",
-            "cat" : "Arcade",
-            "orientation" : "0"
+            "name" : "",
+            "img" : "https://i.ibb.co/vLBrL5N/11.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.ibb.co/HV6GrfW/11-1.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.ibb.co/zXQXfzK/11.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.ibb.co/XDxT0zN/11.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.ibb.co/YL8y4w9/11.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.ibb.co/C1SBms0/11.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.ibb.co/0FKRHSc/11.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.ibb.co/LQqty1C/11.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.ibb.co/Q89T3cP/11.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.ibb.co/vBFxKp3/11.png"
         }
-
     ],
+  "games": [
+  {
+    "name": "Skibidi Toilet Game",
+    "ico": "https://i.ibb.co/fQRKMzs/3-1.png",
+    "link": "https://g.vseigru.net/9/igra-skibidi-tualet-vyzhivanie/",
+    "cat": "Overall",
+    "orientation": "1"
+  },
+  {
+    "name": "Skibidi Toilet Game puzzle",
+    "ico": "https://i.ibb.co/Dtwy8Xp/3-2.png",
+    "link": "https://html5.gamemonetize.co/15aj43ai1h4joeaciyclco8n1tvbcibv/?gamedomain=",
+    "cat": "puzzle",
+    "orientation": "0"
+  },
+  {
+    "name": "Skibidi Toilet Game gun",
+    "ico": "https://i.ibb.co/w0VYxY5/3-3.png",
+    "link": "https://html5.gamedistribution.com/6857ab392b9447b28e03f8d03c793479/",
+    "cat": "Soccer",
+    "orientation": "0"
+  },
+  {
+    "name": "Skibidi Toilet Game piano",
+    "ico": "https://i.ibb.co/RbTF6C6/3-4.png",
+    "link": "https://g.vseigru.net/9/igra-skibidi-tualetnoe-pianino/",
+    "cat": "Arcade",
+    "orientation": "0"
+      },
+  {
+    "name": "Scary Skibidi Toilet Face",
+    "ico": "https://i.postimg.cc/SKYznpWN/3-4.png",
+    "link": "https://html5.gamemonetize.co/sxpe7t5j4er3r9a0upv3kuxgf8s5emey/",
+    "cat": "Arcade",
+    "orientation": "0"
+  }
+],
     
     "scratch" : [
-        { "img" : "https://i.postimg.cc/85DRTYrt/image.png" },
-        { "img" : "https://i.postimg.cc/qBD3FqQm/maxresdefault-7.jpg" },
-        { "img" : "https://i.postimg.cc/B66v5cWJ/maxresdefault-7.jpg" }
+        { "img" : "https://i.postimg.cc/nc6xHbc1/image.png" },
+        { "img" : "https://i.postimg.cc/xdQSzvmJ/image.png" },
+        { "img" : "https://i.postimg.cc/nzR8gNPB/image.png" }
     ],
 
     
